@@ -1,0 +1,4 @@
+harina 
+arroz 
+pollo
+fruta
