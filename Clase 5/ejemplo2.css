@@ -1,0 +1,11 @@
+.caja{
+
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 50px 20px;
+    margin: 100px;
+    box-shadow: 5px 10px 15px;
+}
